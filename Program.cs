@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("My First Commit");
             Console.WriteLine("My Second  Commit");
+            Console.WriteLine("My TestAutomationCode Commit");
         }
     }
 }
